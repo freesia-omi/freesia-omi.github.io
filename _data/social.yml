@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://Freesia@gmail.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/freesia-omi
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/freesia-omi/not-pure-poole
+  icon: fab fa-github
